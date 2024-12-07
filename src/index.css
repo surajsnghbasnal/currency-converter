@@ -25,7 +25,6 @@
 }
 
 h1 {
-  /* padding: 16px; */
   background: #fff;
   font-size: 30px !important;
   margin-bottom: 2rem;
@@ -33,11 +32,10 @@ h1 {
   color: #333;
 }
 
-.currency_exchnage {
+.currency_exchange {
   display: flex;
   justify-content: space-between;
   background: #fff;
-  /* align-items: center; */
 }
 
 .input_container {
